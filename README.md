@@ -1,6 +1,7 @@
 # ArtaEye
 
-ArtaEye (Art and Eye) is web/mobile cam eye tracking to make beautiful draw, art work based on eye moves.
+ArtaEye is web/mobile camera eye tracking to make beautiful drawing, artwork based on eye movements.
+In this project, we target people with disabilities to create an artwork, we try to translate their feelings through their eyes into digital drawings.
 
 Originally a repo for doing facial recognition and matching an emoji to it, I've since hijacked it to hold my models and data collection and raw data for my eye tracking mouse. I use hough circles to perform pupil detection, and use a CNN on a bunch of data I collected. 
 
