@@ -12,3 +12,8 @@ andyCNN.py loads all the data from the eyes/ and testeyes/ dirs to train the mod
 eyetrack.py collects the pupil data by moving your cursor around the screen and having you follow its tip around.
 
 testEyes.py evaluates the models I've trained. 
+
+
+Link to face_recognition library: https://github.com/ageitgey/face_recognition
+
+Site for drawing my mouse location: https://processing.org/examples/continuouslines.html
